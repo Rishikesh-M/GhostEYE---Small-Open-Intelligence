@@ -133,7 +133,7 @@ const App: React.FC = () => {
              </div>
           </div>
           <h1 className="text-4xl md:text-5xl font-black text-transparent bg-clip-text bg-gradient-to-r from-white via-slate-200 to-slate-500 tracking-tight mb-4">
-            NEXUS <span className="font-light text-slate-400">INTEL</span>
+            GHOST <span className="font-light text-slate-400">EYE</span>
           </h1>
           <p className="text-slate-500 max-w-lg text-sm md:text-base leading-relaxed">
             Advanced data correlation engine. Connect usernames, emails, and digital footprints using public data sources.

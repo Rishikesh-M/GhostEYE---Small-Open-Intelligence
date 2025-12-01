@@ -1,0 +1,5 @@
+{
+  "name": "GhostEYE - Search DATA",
+  "description": "A powerful Open Source Intelligence (OSINT) style search engine using Google Gemini with Search Grounding to discover and link user data points like usernames, emails, and addresses.",
+  "requestFramePermissions": []
+}
